@@ -1,6 +1,6 @@
 # IMDB analog working on API, Docker, Django
 
-This app is a project that collects user reviews on various works. Add masterpiece of art here, leave a reviews or comment other reviews written by your friends, acquaintances
+This app is a project that collects user reviews on various works. Add masterpiece of art here, leave a reviews or comment other reviews written by your friends, acquaintances and people all around the world!
 
 ## Example .env file
 
