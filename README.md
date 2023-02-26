@@ -1,6 +1,6 @@
 # IMDB analog working on API, Docker, Django
 
-YaMDb is a project that collects user reviews on various works.
+This app is a project that collects user reviews on various works.
 
 ## Example .env file
 
