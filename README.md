@@ -63,3 +63,5 @@ After the first run, you need to create a database for the application with the 
 - psycopg2-binary (v2.8.6)
 - Gunicorn (v20.0.4)
 - asgiref (v3.2.10)
+- nginx
+- postgresql
